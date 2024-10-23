@@ -1,4 +1,5 @@
 IMTEK GRAPHICS Management System
+
 These diagrams represent the structural design of the IMTEK GRAPHICS Management System, illustrating the key entities and their relationships.
 
 ER Diagram: Shows entities like Customer, Designer, Admin, Cashier, Supplier, and more, along with their relationships such as managing orders, placing purchase orders, and handling payments.
